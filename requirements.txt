@@ -3,7 +3,7 @@ certifi==2018.4.16
 chardet==3.0.4
 ChatterBot==0.8.5
 chatterbot-corpus==1.1.2
-Django==1.11.5
+Django==1.11.29
 future==0.16.0
 idna==2.6
 mathparse==0.1.1
